@@ -1,4 +1,4 @@
-# Kawa Space Intern Challenge
+# Kawa Space - Frontend Intern Challenge
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
