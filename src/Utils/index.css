@@ -1,0 +1,7 @@
+.address-container > .street-span {
+	color: var(--secondary);
+}
+
+.address-container > .country-span {
+	font-weight: bold;
+}
